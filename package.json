@@ -1,7 +1,6 @@
 {
   "name": "practicanode.js22-12-23",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "tsc ./src/index.ts",
@@ -19,6 +18,8 @@
     "ts-node": "^10.9.2"
   },
   "devDependencies": {
+    "nodemon": "^3.0.2",
     "typescript": "^5.3.3"
-  }
+  },
+  "description": ""
 }
