@@ -1,10 +1,10 @@
 import { Pool, QueryResult } from "pg";
 
 export const pool = new Pool({
-  user: "postgress",
+  user: "postgres",
   host: "localhost",
   database: "practica-Express",
-  password: "admin",
+  password: "12345678",
   port: 5432,
 });
 
